@@ -1,0 +1,6 @@
+﻿TC ID,Test Scenario,Result,Comments
+TC01,Login with valid credentials,Pass,Works fine
+TC02,Invalid password,Pass,Error handled
+TC03,Search valid product,Pass,Results displayed correctly
+TC04,Add to cart,Fail,Cart not updated on refresh
+TC05,Place order,Pass,Order confirmation received

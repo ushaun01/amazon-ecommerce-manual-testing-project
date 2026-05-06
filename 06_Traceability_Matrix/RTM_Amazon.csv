@@ -1,0 +1,5 @@
+﻿Requirement ID,Description,Test Case IDs
+RQ01,Login Functionality,"TC01, TC02"
+RQ02,Search Functionality,TC03
+RQ03,Add to Cart,TC04
+RQ04,Checkout & Payment,TC05

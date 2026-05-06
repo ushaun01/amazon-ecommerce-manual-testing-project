@@ -1,0 +1,3 @@
+﻿Bug ID,Module,Description,Severity,Status,Tester
+BUG_01,Cart,Cart not updated after adding item,Major,Open,Usha Nazare
+BUG_02,Payment,UPI option missing on payment page,Minor,Fixed,Usha Nazare

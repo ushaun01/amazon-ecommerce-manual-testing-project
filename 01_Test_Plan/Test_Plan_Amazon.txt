@@ -1,0 +1,10 @@
+Amazon Manual Testing Project – Test Plan
+
+Project Overview: Manual testing of Amazon Global website (https://www.amazon.com).
+Objective: Validate the entire shopping flow from login to order placement.
+Scope: Functional, Regression, and Negative Testing.
+Test Environment: Web – Google Chrome / Firefox / Edge.
+Entry Criteria: Test data and environment setup completed.
+Deliverables:  Test Plan, Test Cases, Execution Report, Defect Report, RTM.
+Roles & Responsibilities: Usha Nazare – Manual Tester.
+Tools Used:  Excel, Word.

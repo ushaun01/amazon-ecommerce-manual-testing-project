@@ -1,0 +1,9 @@
+﻿TC ID,Scenario,Precondition,Steps,Expected Result,Actual Result,Status
+TC01,Login with valid credentials,User registered,"1. Go to amazon.com
+2. Click Sign In
+3. Enter email & password
+4. Click Login",User successfully logged in,As expected,Pass
+TC02,Login with invalid password,User registered,Enter wrong password,Error message displayed,As expected,Pass
+TC03,Search valid product,User logged in,Search for 'Laptop',Relevant results displayed,As expected,Pass
+TC04,Add to cart,User logged in,Click Add to Cart on a product,Item added to cart,Cart not updated,Fail
+TC05,Place order,Item in cart,Proceed to checkout -> Enter address -> Confirm order,Order placed successfully,As expected,Pass

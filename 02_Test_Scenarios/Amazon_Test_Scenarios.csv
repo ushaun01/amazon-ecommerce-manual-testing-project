@@ -1,0 +1,6 @@
+﻿ID,Module,Test Scenario,Priority
+TS01,Login,Verify login with valid credentials,High
+TS02,Login,Verify login with invalid password,High
+TS03,Search,Verify product search results for valid product,High
+TS04,Cart,Verify adding and removing item from cart,High
+TS05,Checkout,Verify successful order placement flow,Critical
