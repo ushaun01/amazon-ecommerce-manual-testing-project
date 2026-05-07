@@ -1,4 +1,4 @@
-🛒 Amazon Manual Testing Project .
+🛒 Amazon Manual Testing Project
 
 🌍 Project Overview
 
